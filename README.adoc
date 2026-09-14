@@ -1,17 +1,17 @@
 // image::./sources/2.3.0/images/figure-s102-logo.svg[S102_logo__signalFlagsSpellingS102,248,120]
 
-= IHO C-17 Guidance for Hydrographic Offices
+= IHO S-44  IHO Standards for Hydrographic Surveys
 
 image:https://github.com/metanorma/C-17/actions/workflows/generate.yml/badge.svg["Build Status", link="https://github.com/metanorma/C-17/actions/workflows/generate.yml"]
 
 This document is available in its rendered forms here:
 
-* https://iho-ohi.github.io/C-17/[IHO C-17 (HTML)]
+* https://iho-ohi.github.io/S-44/[IHO S-44 (HTML)]
 
 == Purpose
 
 This is the IHO repository for developing the next edition of
-the C-17 Guidance for Hydrographic Offices.
+S-44  IHO Standards for Hydrographic Surveys.
 
 WARNING: The contents of this repository are in draft form and are not necessarily in force yet.
 Please refer to the final version published on the official
@@ -20,10 +20,10 @@ https://iho.int[IHO] website.
 
 == General
 
-This repository contains the source files of C-17 standards, including:
+This repository contains the source files of S-44 standards, including:
 
-* C-17 2.0.0
-* C-17 3.0.0 (in development)
+* S-44 6.2.0
+* S-44 6.x.x (in development)
 
 These documents are encoded in the
 https://www.metanorma.org/author/topics/document-format/[Metanorma AsciiDoc format].
@@ -32,7 +32,7 @@ https://www.metanorma.org/author/topics/document-format/[Metanorma AsciiDoc form
 == Structure
 
 `sources/`::
-source of the C-17 documents and models
+source of the S-44 documents and models
 
 `site/`::
 (automatically generated, in the `gh-pages` branch) published document.
