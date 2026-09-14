@@ -1,0 +1,68 @@
+<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>IHO C-17 Guidance for Hydrographic Offices</title><contributor><role type='author'/><organization><name>IHO: International Hydrographic Organization</name></organization></contributor><relation type='partOf'><bibdata type="standard" schema-version="v1.5.6">
+  <title language="en" type="main">Spatial Data Infrastructures "The Marine Dimension"</title>
+  <uri type="xml">./documents/2.0.0/document.xml</uri>
+  <uri type="pdf">./documents/2.0.0/document.pdf</uri>
+  <uri type="doc">./documents/2.0.0/document.doc</uri>
+  <uri type="html">./documents/2.0.0/document.html</uri>
+  <uri type="rxl">./documents/2.0.0/document.rxl</uri>
+  <docidentifier primary="true" type="IHO">C-17</docidentifier>
+  <docnumber>17</docnumber>
+  <date type="published">
+    <on>2017-01</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Hydrographic Organization</name>
+      <abbreviation>IHO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      <name>International Hydrographic Organization</name>
+      <subdivision type="Committee">
+        <name>ircc</name>
+      </subdivision>
+      <subdivision type="Workgroup">
+        <name>msdiwg</name>
+      </subdivision>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Hydrographic Organization</name>
+      <abbreviation>IHO</abbreviation>
+    </organization>
+  </contributor>
+  <edition>2.0.0</edition>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage>in-force</stage>
+  </status>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>International Hydrographic Organization</name>
+        <abbreviation>IHO</abbreviation>
+      </organization>
+    </owner>
+  </copyright>
+  <series type="main">
+    <title>Capacity Building</title>
+    <abbreviation>C</abbreviation>
+  </series>
+  <ext schema-version="v1.1.2">
+    <doctype>standard</doctype>
+    <flavor>iho</flavor>
+    <structuredidentifier>
+      <docnumber>17</docnumber>
+    </structuredidentifier>
+  </ext>
+</bibdata></relation>
+</relaton-collection>
